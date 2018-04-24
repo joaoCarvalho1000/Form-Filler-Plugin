@@ -1,0 +1,12 @@
+.squareClick:active{
+
+	background-color: dark-gray;
+}
+.squareClick:hover{
+
+	cursor:pointer
+}
+
+.noselect {
+  -webkit-user-select: none;   /* Chrome/Safari/Opera */
+}
